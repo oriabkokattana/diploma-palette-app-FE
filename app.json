@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "diploma-pallete-app",
-    "slug": "diploma-pallete-app",
+    "slug": "diploma-plallete-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "37b4c275-3f92-49ed-850a-930372d35ba3"
+      }
+    },
+    "owner": "olimpki"
   }
 }
